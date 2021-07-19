@@ -1,21 +1,10 @@
 # <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
+My project is to create and manage transaction and calculate the  amount for the selected items listed. The items were related to pizza, shawarma and cool drinks in which upon selection from user the amount is calculated after which payment link is generated and after payment delivery time will be generated.
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+#INSTRUCTIONS:
+To run: 
+1.User git clone option with repo link git clone https://github.com/sshareeq01/assignment.git.
+2.The first time run npm install.
+3.And then use npm start to run the app.
 
-To run:
 
-1. The first time run `npm install`
-2. Press ctrl-f5 while your focus is in one of the files that starts with a number and is all lower case.
-
-## Assignment 1
-
-Create an order bot for your favourite food. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
-
-### Marking
-
-basic order for an item in a zip (65%)
-2nd or 3rd item (up to 10%)
-up-sell item other than drinks (up to 10%)
-estimated price or ability for someone in the store to see the orders with their phone (up to 15%)
-
-There is a brief [presentation here](EventsAndObjects.pdf).
